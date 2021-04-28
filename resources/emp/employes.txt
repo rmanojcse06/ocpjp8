@@ -1,0 +1,2 @@
+Every Worker is a Master
+Every Master was a Worker
